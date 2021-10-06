@@ -1,1 +1,1 @@
-
+Install-Module osd -Force
